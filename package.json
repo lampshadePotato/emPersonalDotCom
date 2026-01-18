@@ -1,5 +1,5 @@
 {
-  "name": "minimal-mistakes",
+  "name": "emPersonalDotCom",
   "private": true,
   "version": "4.27.3",
   "description": "Minimal Mistakes 2 column Jekyll theme.",
@@ -31,6 +31,8 @@
 
 }
 {
+  "name": "jekyll-site",
+  "version": "1.0.0",
   "scripts": {
     "build": "bundle exec jekyll build"
   }
